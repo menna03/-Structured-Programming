@@ -1,7 +1,4 @@
-// problem 2
-/*Menna Osama Elminshawy (20217011)
-Mariam Ashraf Ezzat (20216140)
-s4 */
+
 #include <iostream>
 using namespace std ;
 int checkMmatMultip (int c1 ,int r2  )

@@ -1,4 +1,3 @@
-//problem 3-(Mariam Ashraf 20216140)--(Menna Osama 20217011) s4
 #include <iostream>
 using namespace std;
 //this function take the number of students and the number of quiz from the user

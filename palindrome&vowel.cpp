@@ -1,7 +1,4 @@
-// problem 4
-/* Menna Osama Elminshawy (20217011)
-Mariam Ashraf Ezzat (20216140)
-s4 */
+
 #include <iostream>
 #include<cstring>
 using namespace std;
